@@ -1,1 +1,1 @@
-"Amina Farabi, Damir Yessenbek. Blockchain Endterm work" 
+Amina Farabi, Damir Yessenbek. Blockchain Endterm work
